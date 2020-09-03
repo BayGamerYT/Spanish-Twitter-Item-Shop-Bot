@@ -55,3 +55,5 @@ python3 itemshop.py
 - Item Shop data provided by [Fortnite-API](https://fortnite-api.com/)
 - Burbank font property of [Adobe](https://fonts.adobe.com/fonts/burbank)
 - Luckiest Guy font property of [Google](https://fonts.google.com/specimen/Luckiest+Guy)
+
+[![Run on Repl.it](https://repl.it/badge/github/PokeSantiTW/Spanish-Twitter-Item-Shop-Bot)](https://repl.it/github/PokeSantiTW/Spanish-Twitter-Item-Shop-Bot)
